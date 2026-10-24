@@ -1,0 +1,12 @@
+# Compiled files
+*.exe
+*.o
+*.out
+calculator
+
+# Build folders
+build/
+
+# Editor files
+.vscode/
+.idea/
